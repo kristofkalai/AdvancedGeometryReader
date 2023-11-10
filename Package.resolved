@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "sizepreferencekey",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/SizePreferenceKey.git",
+      "state" : {
+        "revision" : "fe4d8b2caae6dda8742f7c423a4737fce45579bb",
+        "version" : "0.0.4"
+      }
+    }
+  ],
+  "version" : 2
+}
